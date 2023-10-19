@@ -1,0 +1,23 @@
+{
+  "name": "bigscreen-vite-vue3-2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "echarts": "^5.4.3",
+    "leaflet": "^1.9.4",
+    "leaflet.pm": "^2.2.0",
+    "sass": "^1.68.0",
+    "v-scale-screen": "^2.2.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
